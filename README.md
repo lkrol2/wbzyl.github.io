@@ -1,4 +1,5 @@
-wbzyl.github.io
-===============
+## wbzyl.github.io
 
-My home on Github
+TL;DR:
+
+* [QUANTA Magazine](https://www.simonsfoundation.org/quanta/)
