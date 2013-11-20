@@ -1,8 +1,7 @@
 .logo {
   display: block;
-  float: left;
-  margin-right: -2em;
-  display: absolute;
+  position: absolute;
+  left: 8%;
 }
 
 .list {
