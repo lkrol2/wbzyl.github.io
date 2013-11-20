@@ -1,7 +1,7 @@
 .logo {
   display: block;
   position: absolute;
-  left: 64px;
+  left: 0;
 }
 
 .list {
@@ -16,5 +16,5 @@
 .container {
   width: 100%;
   max-width: 600px;
-  margin: 0 auto 300px 0;
+  margin: 0 auto 0 256px;
 }
