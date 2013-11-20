@@ -1,10 +1,15 @@
 .logo {
   display: block;
   float: left;
-  margin-right: 2em;
+  margin-right: -2em;
+  display: absolute;
 }
 
 .list {
   padding-top: 1em;
   clear: both;
+}
+
+#main_content {
+  display: relative;
 }
