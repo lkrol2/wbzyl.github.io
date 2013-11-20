@@ -1,8 +1,10 @@
-.left {
+.logo {
+  display: block;
   float: left;
   margin-right: 2em;
 }
 
-.clear {
+.list {
+  margin-top: 1em;
   clear: both;
 }
