@@ -13,3 +13,7 @@ DONE:
   <li>Yoshua Bengio and Aaron Courville,
     <a href="http://www.iro.umontreal.ca/~bengioy/papers/BengioCourvilleChapter.pdf">Deep Learning of Representations</a></li>
 </ul>
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wbzyl/wbzyl.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
